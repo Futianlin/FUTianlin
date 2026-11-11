@@ -1,9 +1,10 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -12,9 +13,9 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "FU Tianlin"
 title_separator          : "-"
 name                     : &name "FU Tianlin"
-description              : &description "MSc Business Information Systems student at City University of Hong Kong with a focus on Financial and Intelligent Technology. Experienced in AI-powered financial systems, image processing, and software engineering."
-url                      : https://futianlin.github.io/FUTianlin-UT # the base hostname & protocol for your site
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "Tianlin Fu is a PhD researcher in Robotics at the University of Twente, within the Robotics and Mechatronics (RAM) group and its Robotic Vision and Intelligence (RVI) team. His research interests include human-robot interaction, human-centered sensing (EEG and sEMG), and intelligent robotics."
+url                      : "https://futianlin.github.io" # the base hostname & protocol for your site
+baseurl                  : "/FUTianlin" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "FU Tianlin"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at the University of Twente (UT) | MSc in Business Information Systems from City University of Hong Kong"
+  pronouns         : # example: "she/her"
+  bio              : "PhD Researcher at the University of Twente | RVI within RAM | Human-Robot Interaction & Multimodal Sensing"
   location         : "Enschede, Netherlands"
   employer         : "University of Twente"
   uri              : # URL
-  email            : "futianlin2003@gmail.com" 
+  email            : "futianlin2003@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -46,7 +47,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "futianlin"
-  kaggle           : # Username  
+  kaggle           : # Username
   stackoverflow    : # User number or user number and name
 
   # Social media
@@ -82,7 +83,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
@@ -137,12 +138,12 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           : "Personal portfolio of FU Tianlin, showcasing expertise in AI, fintech, and software engineering."
+og_description           : "Tianlin Fu is a Robotics PhD researcher at the University of Twente, in the Robotics and Mechatronics (RAM) group and its Robotic Vision and Intelligence (RVI) team, with interests in human-robot interaction, EEG/sEMG sensing, and intelligent robotics."
 # For specifying social profiles
 social:
   type                   : Person
   name                   : "FU Tianlin"
-  links: 
+  links:
     - https://github.com/Futianlin
     - wechat://NeoX2003
 
